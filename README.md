@@ -13,3 +13,5 @@
 ## Our 2D map at the rC3
 
 https://github.com/zoff99/tox_assembly/tree/rc3_2020
+
+<img src="https://raw.githubusercontent.com/zoff99/rC3_2020/main/images/rc3_map_impression.png" width="400">&nbsp;
