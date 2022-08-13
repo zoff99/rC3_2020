@@ -7,7 +7,8 @@
 
 ## Links to the Videos
 
-<a href="https://media.ccc.de/v/rc3-730010-an_introduction_to_tox">An Introduction to Tox</a><br>
+<a href="https://media.ccc.de/v/rc3-730010-an_introduction_to_tox">BROKEN LINK for now / An Introduction to Tox</a><br>
+<a href="https://github.com/zoff99/rC3_2020/releases/download/rc3_talk/An_Introduction_to_Tox_22852.mp4">An Introduction to Tox</a><br>
 <a href="https://media.ccc.de/v/rc3-709912-adopting_the_noise_key_exchange_in_tox">Adopting the Noise Key Exchange in Tox</a><br><br>
 
 ## Our 2D map at the rC3
